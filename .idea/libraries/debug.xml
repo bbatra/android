@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VibeBlue2/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-ae38672e605946169f772b52ee5f0b1db69afcce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VibeBlue2/app/build/intermediates/pre-dexed/debug/classes-9dc924c7ab6298eb29fbf0e955a9994cf4535b4f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VibeBlue2/app/build/intermediates/pre-dexed/debug/classes-9dbe19aa3ab8ddb7145404e82b20410c223ef21d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VibeBlue2/app/build/intermediates/pre-dexed/debug/classes-45555b2e00a1175d2012f557066b11c165f78c49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VibeBlue2/app/build/intermediates/pre-dexed/debug/classes-53f8f265e4cf9f6a06ff5361362f864340c37470.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VibeBlue2/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-24c46cbde714be0842274322039416f341dd73a0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
